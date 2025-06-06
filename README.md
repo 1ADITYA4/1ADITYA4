@@ -33,3 +33,7 @@ I have been learning to code seriously since last year's summer, started my jour
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/1ADITYA4/lifther_platform" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=1ADITYA4&repo=lifther_platform&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/1ADITYA4/book_lender_2.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=1ADITYA4&repo=book_lender_2.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/1ADITYA4/Assistive-and-Navigation-Model-for-the-Visually-Impaired-and-Elderly-People" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=1ADITYA4&repo=Assistive-and-Navigation-Model-for-the-Visually-Impaired-and-Elderly-People&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/1ADITYA4/AI_RESUME_SCanner" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=1ADITYA4&repo=AI_RESUME_SCanner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
