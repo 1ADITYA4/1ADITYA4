@@ -36,9 +36,9 @@ I have been learning to code seriously since last year's summer, started my jour
 <div align="center"> 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/Aditya_1141/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Aditya_1141/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Aditya_1141/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Aditya_1141/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Aditya_1141/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Aditya_1141/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
 <!--   <a href="https://leetcode.com/Aditya_1141/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a> -->
 </p>
 
