@@ -8,7 +8,7 @@ I have been learning to code seriously since last year's summer, started my jour
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vardhan.aditya.4414@gmail.com](mailto:vardhan.aditya.4414@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning SQL and Python
 
 ### Skills
 
